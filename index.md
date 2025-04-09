@@ -6,6 +6,7 @@ Some things I love are:
 - exploring new places
 - doing art
 - the great outdoors
+
 I'm also a big dog person! Below is my dog, * *Ollie* *.
 ![Ollie](Images/Ollie.png) ![Ollie in the Sun](Images/Ollie2.png)
 
